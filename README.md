@@ -45,4 +45,4 @@ In multi-agent AI ecosystems, a single compromised node or a prompt injection ca
 
 ## About
 
-- Built by Sunaina Anumukonda as part of my TKS focus study on Cybersecurity + Ai, exploring the question: When AI agents Start Talking to Each Other, Who is Watching?
+Built by Sunaina Anumukonda as part of my TKS focus study on Cybersecurity + Ai, exploring the question: When AI agents Start Talking to Each Other, Who is Watching?
