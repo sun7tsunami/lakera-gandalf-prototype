@@ -35,8 +35,7 @@ In multi-agent AI ecosystems, a single compromised node or a prompt injection ca
 
 - Inspired by Lakera's Gandalf & Agent Breaker Benchmarks: https://gandalf.lakera.ai/
 - Lakera Official Research Repository: https://github.com/lakeraai/dsec-gandalf
-- Inspired by Agent Breaker:
-  "Welcome to Agent Breaker! This is an entire app store of GenAI applications - and every single one of them can be hacked. This challenge is about exploiting real-world AI agents. Your Mission: Hack each app in any order across multiple levels of increasing difficulty using prompt attacks that bypass the app's defenses and manipulate the underlying LLM. How it Works: Each attack attempt is scored from 0 to 100 based on how effectively it achieves the attack objective. Try as many times as you need. Score 75+ to unlock the next level for that app. Go back to improve your scores anytime. How to Win: Enter the Agent Breaker leaderboard and compete to get the highest total score across all the levels and apps to demonstrate your hacking prowess!"
+- Inspired by Lakera's Agent Breaker challenge, an interactive platform designed to evaluate AI agents across progressive prompt-injection difficulty levels. Our local Python harness adapts this evaluation workflow into an offline desktop environment.
 - This project is a custom, offline Python prototype built for educational red-teaming demonstration purposes and is not affiliated with or endorsed by Lakera.
 
 ## Future Roadmap
