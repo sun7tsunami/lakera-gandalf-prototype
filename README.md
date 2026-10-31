@@ -42,3 +42,7 @@ In multi-agent AI ecosystems, a single compromised node or a prompt injection ca
 
 - Current Implementation: Single-agent model boundary evaluation inspired by Lakera.
 - Next Steps: Scaling guardrail logic into multi-agent communication wrappers, such as Laiyer AgentArmor or NVIDIA NeMo Lab, to prevent poisoned memory propagation across multi-agent networks.
+
+## About
+
+- Built by Sunaina Anumukonda as part of my TKS focus study on Cybersecurity + Ai, exploring the question: When AI agents Start Talking to Each Other, Who is Watching?
