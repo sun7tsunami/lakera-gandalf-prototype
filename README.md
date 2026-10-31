@@ -31,6 +31,11 @@ In multi-agent AI ecosystems, a single compromised node or a prompt injection ca
    python3 app.py
 4. Click the run button within the desktop interface to execute the automated security simulation.
 
+## Acknowledgements and References
+
+- Inspired by the Lakera Gandalf Prompt Injection Benchmark: https://gandalf.lakera.ai/
+- This project is a custom, offline Python prototype built for educational red-teaming demonstration purposes and is not affiliated with or endorsed by Lakera.
+
 ## Future Roadmap
 
 - Current Implementation: Single-agent model boundary evaluation inspired by Lakera.
