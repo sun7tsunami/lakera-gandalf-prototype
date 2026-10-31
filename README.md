@@ -26,8 +26,8 @@ In multi-agent AI ecosystems, a single compromised node or a prompt injection ca
 
 1. Ensure Python 3.12 is installed on your system.
 2. Clone the repository:
-   git clone https://github.com/YOUR_USERNAME/lakera-gandalf-prototype.git
-   cd lakera-gandalf-prototype
+   git clone[ https://github.com/YOUR_USERNAME/lakera-gandalf-prototype.git
+   cd lakera-gandalf-prototype](https://github.com/sun7tsunami/lakera-gandalf-prototype.git)
 3. Run the application script:
    python3 app.py
 4. Click the run button within the desktop interface to execute the automated security simulation.
